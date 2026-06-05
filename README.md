@@ -186,8 +186,10 @@ App runs on `http://localhost:5173`
 
 | Page | Preview |
 |------|---------|
-| Login | ![Login](#) |
-| Register | ![Register](#) |
+| Login  |<img width="1127" height="900" alt="image" src="https://github.com/user-attachments/assets/0fed7d4b-e613-4b7f-bcbd-39ca0c8c07e8" />
+|
+| Register |![Uploading image.png…]()
+|
 | Dashboard | ![Dashboard](#) |
 
 ---
