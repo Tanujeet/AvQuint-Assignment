@@ -187,10 +187,9 @@ App runs on `http://localhost:5173`
 | Page | Preview |
 |------|---------|
 | Login  |<img width="1127" height="900" alt="image" src="https://github.com/user-attachments/assets/0fed7d4b-e613-4b7f-bcbd-39ca0c8c07e8" />
-|
-| Register |![Uploading image.png…]()
-|
-| Dashboard | ![Dashboard](#) |
+| Register |<img width="1128" height="904" alt="image" src="https://github.com/user-attachments/assets/685ace6d-0606-4b55-9fd5-33b3880baaa8" />
+| Dashboard |<img width="1128" height="899" alt="image" src="https://github.com/user-attachments/assets/24663149-eeaa-4e70-8643-3729050961df" />
+
 
 ---
 
